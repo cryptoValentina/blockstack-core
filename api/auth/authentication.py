@@ -3,3 +3,4 @@ from functools import wraps, update_wrapper
 from werkzeug.datastructures import Authorization
 from flask import g, request
 
+was das heisst weiß ich nicht so genau
